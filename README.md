@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Josias 👋
 
-<!--
-**josiasazmitia/josiasazmitia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>About Coding & Coffee ☕</br>
+</em></p>
 
-Here are some ideas to get you started:
+[![Twitter: JosiasE_](https://img.shields.io/twitter/follow/JosiasE_?style=social)](https://twitter.com/JosiasE_)
+[![GitHub josiastech](https://img.shields.io/github/followers/josiastech?label=follow&style=social)](https://github.com/josiasazmitia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Twitter - [@JosiasE_](https://twitter.com/JosiasE_)
+- LinkedIn - [Josias A.](https://www.linkedin.com/in/josias-azmitia/)
+
+---
+
+⭐️ From [@josiastech](https://github.com/josiasazmitia) prev. [@josiastech](https://github.com/josiastech) 💻
